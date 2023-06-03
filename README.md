@@ -4,13 +4,13 @@ Welcome to the NewtonThirdLawGame repository! This repository contains the sourc
 ## Getting Started
 To run the game locally, follow these steps:
 
-**Prerequisites**:Ensure that Python and Pygame are installed on your system.
-**Clone the repository**:Clone this repository to your local machine using 
+**Prerequisites**:Ensure that Python and Pygame are installed on your system.<br>
+**Clone the repository**:Clone this repository to your local machine using<br>
 git clone https://github.com/your-username/NewtonThirdLawGame.git.
-**Navigate to the directory**:Navigate to the cloned directory: 
+**Navigate to the directory**:Navigate to the cloned directory:<br>
 cd NewtonThirdLawGame.
-**Run the game**:Run the game using the command: python ball.py.
-**Play and explore**:Feel free to explore, modify, and enhance the game according to your preferences. Contributions and suggestions are always welcome!
+**Run the game**:Run the game using the command: python ball.py.<br>
+**Play and explore**:Feel free to explore, modify, and enhance the game according to your preferences. Contributions and suggestions are always welcome!<br>
 
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal and commercial purposes.
