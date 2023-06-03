@@ -6,10 +6,10 @@ To run the game locally, follow these steps:
 
 **Prerequisites**:Ensure that Python and Pygame are installed on your system.<br>
 **Clone the repository**:Clone this repository to your local machine using<br>
-git clone https://github.com/your-username/NewtonThirdLawGame.git.<br>
+<code>git clone https://github.com/your-username/NewtonThirdLawGame.git</code>.<br>
 **Navigate to the directory**:Navigate to the cloned directory:<br>
-cd NewtonThirdLawGame.<br>
-**Run the game**:Run the game using the command: python ball.py.<br>
+<code>cd NewtonThirdLawGame</code>.<br>
+**Run the game**:Run the game using the command: <code>python ball.py</code>.<br>
 **Play and explore**:Feel free to explore, modify, and enhance the game according to your preferences. Contributions and suggestions are always welcome!<br>
 
 ## License
